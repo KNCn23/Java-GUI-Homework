@@ -1,0 +1,2 @@
+- This code is my OOP homework classes in src folder.
+- Main is in the LinkedinApp.java
